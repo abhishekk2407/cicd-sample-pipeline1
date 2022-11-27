@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kf-org-auto-billing",
+  "private_key_id": "7ccd676eecf6a281b41dc9778df2dd5bda811d3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDYYfApD6YM/Yui\nbPC2KQKoFbqNsKav8wJBIEPT7jhMszwb7YYT3kZoBv7aAsFrOWkE++8TSv1NOw8t\nF+iDaiTEvGoc1Hy1uJ1A7E45ctSTy9r5eTFpmZ/BgsyjdklDlYLmuoeSmwE3tVub\nY2lyC5Y6kaisirQxxCVPcaB9FdWcUigJ2bRJuAulbAr3KuyDbt/w1cYFkS04DKn3\nXN/XoXn8w14BmZIMRk4U6PnDLQz8DPNKtSmDk9hKYdIdxfNoJE97IVWR/nhVi0aK\nEWL0hVI5cUxW0v+BvVVw74dMT4bhaQtD4bHZ2uM2PQ55ltFd3VLNvRedzqbbMz6Z\ne2/GdMFfAgMBAAECggEAHLuglus/iwEODjL2IdI/So+cFp2K/NlBhuFgcF91NWYl\niLXZNIEzCzRGmi98fJ8CfYlwvTibeyppAP1oQC8Tk9ZLJunmZ4EMzKa0WnePl9Kd\nkLwRniqqppkWUGxwHRvY5oeFYifYGQwpjnA8e8rjF4LpCYRfmi4oICz/+SwxkdCu\ngBXfYgBScQ3un/hHDGvIqM9w/wQJl2w8/i8bVNgXTbfQdsuJPvCS9VdX5gvrUqLD\npvRseXF1+gqJ67o/GhiaG5i3hR4wD6eQWaogP7+D5sDU20N8bknENrBD3p//wM5x\nGg80w/Xiy3ESJjpp7Zk08CLRYM0Amy/XI6nm1Dr95QKBgQDwbxnm0r0GxTF9aEin\nvsTcT1r/ITun/fmB90BL1GE6I9SE6S8hXk5xM6nlVyOhWiHDc94+R884Tx+eBgqf\n/2vpLIRsgM0IkZaNJQXOClZ1R0xRA+W8kIdfGV4UlvBP2LNsHTKtI+jRuyq9zCQm\nN7TUfp2bRmF6KaKMsw4m5t6RNQKBgQDmZDbS9GhsA9OpjRehVk/R3pNNMhx2m5yB\nhKVwhdHjRzpbDkRYGj3+29qwEdmi+ojLNmXbfBM+Z+E7ZRuY8LzdcH3Xwp1Y0zCw\ntcQHHViK1emDKwcKJRxp6EyzAJCymuuLogx+2/ZeztcF2NX9abH8khy/4Qq7395v\nG+uSQ7ZOwwKBgQDGwvHksd52VFo/VBCMK9bOUgPl2fFZRUoYuO+8QExIJgqv/Z1q\ntm2eg5k18L2Ry9MRox3c2rxhzndSyafK8PqifpzSnf/hz4loEW0lEcK7nT9n0hL/\nuXNPmMb/um/bckeRXunf3EnB6DrDQJm5xl+FM07TaHF47iZkrjlKy5y+6QKBgDe1\njcguzz0nI7xA4LDjdQOTZVzqPBW2BP8QewydXyYs6AByj7YaClmhAd1HQ6/0ErXI\nnpKXCvQxHDZHeYfe1lxZQiS062U6E/D20sLBptJTbVaJRfd/B8LYKAu0nEiDy2cF\nNS5Ls+Qy8a15RC01rJMdJZSELxtEw71sK+c/NksPAoGBAO+hLzIjW3zTqQ6Q0dsc\ns/hAwz9zcVnb3/M6mYUJ2j9o5euLFjfLqJ67ttpF5MQyPQq6JCmXm9/1pqoCMjI1\n9ru8C2VD1qdUK9sQqSyjnsBdxpsvQuKj/cBS2DI2vpMPYnR4mvO2h5ddCcy0rBsK\nq39CZuusCqU2B1BYO+7FuBRg\n-----END PRIVATE KEY-----\n",
+  "client_email": "holcimsa@kf-org-auto-billing.iam.gserviceaccount.com",
+  "client_id": "106511293050593781353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/holcimsa%40kf-org-auto-billing.iam.gserviceaccount.com"
+}
