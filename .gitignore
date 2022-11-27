@@ -1,1 +1,6 @@
+#Terraform plugin
+.terraform
+#Local State file
+statefile.tf
+#Service Account for GCP Resource Creation
 key.json
