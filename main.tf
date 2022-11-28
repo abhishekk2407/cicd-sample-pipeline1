@@ -9,12 +9,12 @@ terraform {
   backend "gcs" {
     bucket = "lz_1527902_jenkins_pipeline_tfstate"
     prefix = "terraform/tfstate/"
-    /* credentials = "key.json" */
+    credentials = "C:/ProgramData/Jenkins/keys/key.json"
   }
 
 }
 
 provider "google" {
-  /* credentials = "key.json" */
+  credentials = "C:/ProgramData/Jenkins/keys/key.json"
   project = var.project_id
 }
