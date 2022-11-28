@@ -1,14 +1,15 @@
 terraform {
     
-    backend "gcs" {
-    bucket = "lz_1527902_jenkins_pipeline_tfstate_1"
-    prefix = "terraform/tfstate"
-    /* credentials = "key.json" */
-  }
   required_providers {
     google = {
       source  = "hashicorp/google"
     }
+  }
+
+  backend "gcs" {
+    bucket = "lz_1527902_jenkins_pipeline_tfstate_1"
+    prefix = "terraform/tfstate"
+    /* credentials = "key.json" */
   }
 
 }
