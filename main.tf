@@ -8,7 +8,7 @@ terraform {
 
   backend "gcs" {
     bucket = "lz_1527902_jenkins_pipeline_tfstate"
-    prefix = "terraform/tfstate"
+    key    = "terraform.tfstate"
     /* credentials = "key.json" */
   }
 
