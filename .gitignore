@@ -1,5 +1,7 @@
 #Terraform plugin
 .terraform
+.terraform.lock.hcl
+old.terraform
 #Local State file
 statefile.tf
 #Service Account for GCP Resource Creation
